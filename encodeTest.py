@@ -15,22 +15,11 @@ fName="text4"
 with open(fName+'.txt') as f:
     message = f.read()
 
-# message=message[:50000]
-# message="test sentence"
-# message="hello world"
-    
-# # message="Adi: Emre\nSoyadi:ERKAN\nKurumu:Batman Universitesi\nAdi: Emre\nSoyadi:ERKAN\nKurumu:Batman Universitesi\nAdi: Emre\nSoyadi:ERKAN\nKurumu:Batman Universitesi\nAdi: Emre\nSoyadi:ERKAN\nKurumu:Batman Universitesi\nAdi: Emre\nSoyadi:ERKAN\nKurumu:Batman Universitesi\n"
-# message="hello world"
-# message=message*1000
+
 st=time.time()
 orgLen,compLen,compressedData,compRatio=encode.encodeData(message)
 et=time.time()
 processTime = round(et - st,3) 
-# print("\n-----------------Original Data-----------------")
-# print(message,'\n')
-
-# print("-----------------Compressed Data-----------------")
-# print(compressedData)
 
 print("\nOriginal Data",orgLen," Bits")
 print("Compressed Data",compLen," Bits")
