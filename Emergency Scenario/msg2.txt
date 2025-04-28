@@ -1,1 +1,4 @@
-Due to the current post-earthquake conditions, task distribution is as follows.All teams must immediately proceed to the designated zones and begin their missions. Communication will be maintained via the LoRa network.
+Dataset no#2 of executive example for implementing HEEES23: 
+A New Text Compression Algorithm Based on Index Permutation and Suffix Coding by Emre Erkan, Erdoğan Aldemir, Hidayet Oğraş and Şehmus Fidan
+
+"Due to the current post-earthquake conditions, task distribution is as follows.All teams must immediately proceed to the designated zones and begin their missions. Communication will be maintained via the LoRa network."
