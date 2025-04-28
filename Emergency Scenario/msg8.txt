@@ -1,3 +1,6 @@
-This plan remains in effect until new instructions are issued. Prioritize safety.
+Dataset no#8 of executive example for implementing HEEES23: 
+A New Text Compression Algorithm Based on Index Permutation and Suffix Coding by Emre Erkan, Erdoğan Aldemir, Hidayet Oğraş and Şehmus Fidan
 
-- Search and Rescue Coordination Center
+"This plan remains in effect until new instructions are issued. Prioritize safety.
+
+- Search and Rescue Coordination Center"
