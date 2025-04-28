@@ -1,4 +1,8 @@
-TEAM 2 - Logistics and Medical Support
+Dataset no#1 of executive example for implementing HEEES23: 
+A New Text Compression Algorithm Based on Index Permutation and Suffix Coding by Emre Erkan, Erdoğan Aldemir, Hidayet Oğraş and Şehmus Fidan
+
+
+"TEAM 2 - Logistics and Medical Support
 - Task: Distribution of water, medicine, and first aid (Western Zone)
 - Team Lead: Elif M.
-- Note: Set up mobile health tents as priority.
+- Note: Set up mobile health tents as priority."
