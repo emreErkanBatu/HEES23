@@ -1,0 +1,4 @@
+TEAM 4 - Missing Person Reporting and Coordination
+- Task: Transmit reported lists from gathering areas to central record
+- Team Lead: Derya A.
+- Note: Send report every 30 mins via LoRa.
