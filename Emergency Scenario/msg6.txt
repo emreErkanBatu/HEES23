@@ -1,4 +1,8 @@
-TEAM 4 - Missing Person Reporting and Coordination
+Dataset no#6 of executive example for implementing HEEES23: 
+A New Text Compression Algorithm Based on Index Permutation and Suffix Coding by Emre Erkan, Erdoğan Aldemir, Hidayet Oğraş and Şehmus Fidan
+
+
+"TEAM 4 - Missing Person Reporting and Coordination
 - Task: Transmit reported lists from gathering areas to central record
 - Team Lead: Derya A.
-- Note: Send report every 30 mins via LoRa.
+- Note: Send report every 30 mins via LoRa."
