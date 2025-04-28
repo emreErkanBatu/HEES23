@@ -1,2 +1,5 @@
-All teams must report updates to the center every 15 minutes via LoRa.
-Coordination center is temporarily located at [Location Name].
+Dataset no#7 of executive example for implementing HEEES23: 
+A New Text Compression Algorithm Based on Index Permutation and Suffix Coding by Emre Erkan, Erdoğan Aldemir, Hidayet Oğraş and Şehmus Fidan
+
+"All teams must report updates to the center every 15 minutes via LoRa.
+Coordination center is temporarily located at [Location Name]."
