@@ -1,4 +1,7 @@
-TEAM 1 - Northern Zone Sweep
+Dataset no#3 of executive example for implementing HEEES23: 
+A New Text Compression Algorithm Based on Index Permutation and Suffix Coding by Emre Erkan, Erdoğan Aldemir, Hidayet Oğraş and Şehmus Fidan
+
+"TEAM 1 - Northern Zone Sweep
 - Task: Search for survivors under debris (North Neighborhood and surrounding areas)
 - Team Lead: Yusuf K.
-- Note: Focus on 3-story buildings. Gas leakage reported.
+- Note: Focus on 3-story buildings. Gas leakage reported."
